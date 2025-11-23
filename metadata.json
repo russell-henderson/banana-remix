@@ -1,0 +1,7 @@
+{
+  "name": "Banana Remix",
+  "description": "A social creativity platform where friends remix each other's photos using AI to explore culture and art.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
